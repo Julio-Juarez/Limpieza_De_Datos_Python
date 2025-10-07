@@ -89,7 +89,7 @@ id,Nombre,email,gender,Ventas
 
 ---
 
-## README: explicación paso a paso (línea por línea / bloque por bloque)
+## Explicacion Codigo
 
 ### Encabezado y comentarios
 Proporciona contexto y explica el propósito y uso del script.
